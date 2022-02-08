@@ -1,12 +1,7 @@
-CANLite and VoltLink 3D-printable cases
-
-To purchase the boards and support the creator please visit: https://www.tindie.com/stores/voltlog/
-VoltLog Logo belongs to the owner/creator of VoltLog.
+Ammar, a CANLite user contributed this CANLite and VoltLink 3D-printable case design.
 
 The CANLite case wall that is facing the ESP32 antenna is thinner for better WiFi signal penetration - or so I hope.
 The opening for the wires is about 2mm wider to allow for the VoltLink 6-wires cable to pass through. This way I can easily reprogram the CANLite without having to open its case. 
-
-
 
 ------------------
  3D Printing Tips
